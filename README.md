@@ -1,4 +1,4 @@
-This Git makes aseprite easier to install!
+This repo makes aseprite easier to install!
 
 To install aseprite, run the following code:
 

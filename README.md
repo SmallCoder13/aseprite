@@ -5,7 +5,7 @@ This repo makes aseprite easier to install!
   To install aseprite, run the following code:
   
   ```
-  git clone --branch debian https://www.github.com/SmallCoder13/aseprite 
+  git clone --branch debian https://www.github.com/SmallCoder13/aseprite ~/aseprite
   
   cd aseprite && unzip aseprite-for-debian.zip
   

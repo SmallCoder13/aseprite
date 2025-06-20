@@ -1,3 +1,4 @@
+**NOTE: I am no longer maintaning this script. You can use aseprites version [here](https://github.com/aseprite/aseprite)** <br />
 This repo makes aseprite easier to install!
 
 **Linux**
